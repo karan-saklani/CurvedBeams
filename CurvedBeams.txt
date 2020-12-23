@@ -1,0 +1,10 @@
+Rectangle - r
+Triangle - t
+Trapezium - tr
+Circle - c
+Ellipse - e
+Concentric Circle - cc
+Concentric Ellipse - ce.
+Arc with Near Apex - an
+Arc with Away apex - aa
+Arc with Away Apex dimensional - aad
