@@ -13,4 +13,5 @@ The following codes can be used for the type column
 <li>Arc with Away apex - aa</li>
 <li>Arc with Away Apex dimensional - aad</li>
 </ul>
-The same can be seen in the text file attached, use pdf to understand the notation
+The same can be seen in the text file attached, use pdf to understand the notation<br>
+The excel sheet CurvedBeams.xlsx must be used to input data, a solution file will be created by the code
